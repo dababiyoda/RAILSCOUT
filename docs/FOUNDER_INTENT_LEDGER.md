@@ -1,7 +1,7 @@
 # Founder Intent Ledger
 
 Scope: Lawful Market Infrastructure Builder, RailScout/UNIIMENTE egregore continuity, and GitHub governance update.
-Captured from: ChatGPT project conversation through 2026-08-19 21:51 America/New_York.
+Captured from: ChatGPT project conversation through 2026-08-19 21:55 America/New_York.
 Repository: `dababiyoda/RAILSCOUT`.
 Operational workspace: Notion page/database system named `Lawful Market Infrastructure Builder`.
 
@@ -45,8 +45,13 @@ Allowed states:
 | FI-20260819-011 | The workspace should run cumulatively and preserve continuity notes so future agents can recover context. | active | active_requirement | Run Logs, Decision Log, GitHub docs | standard | User requested continuity and cumulativeness. | Every run log update. |
 | FI-20260819-012 | The desired automation cadence is hourly, but prior scheduling status was unresolved. | needs_evidence | unresolved_claim | Automations, Notion runs | standard | Prior assistant reported scheduler approval/auth timeout and requested retry. | Before assuming an hourly run is active. |
 | FI-20260819-013 | GitHub should be updated with the conversation context and the recursive founder-intent protocol should be installed for the egregore. | implemented | active_requirement | GitHub docs | standard | User explicitly requested GitHub update and protocol update. | Before merge or future protocol expansion. |
-| FI-20260819-014 | The correct repository for this update is `dababiyoda/RAILSCOUT`, not `dababiyoda/DALEOBANKS`. | implemented | active_requirement | GitHub repository targeting | standard | User corrected the target repository: "It’s in my railscout repository." | Any future GitHub work for RailScout doctrine. |
+| FI-20260819-014 | The correct repository for this update is `dababiyoda/RAILSCOUT`, not `dababiyoda/DALEOBANKS`. | implemented | active_requirement | GitHub repository targeting | standard | User corrected the target repository: `It’s in my railscout repository.` | Any future GitHub work for RailScout doctrine. |
 | FI-20260819-015 | Runtime autonomy must remain bounded by human authorization and existing safety gates wherever RailScout interfaces with autonomous agents. | active | constitutional_invariant | RailScout, UNIIMENTE, future agents | constitutional | User repeatedly requires lawful, ethical, auditable, human-authorized systems. | Any runtime behavior, external posting, self-modification, or money/contact action. |
+| FI-20260819-016 | RailScout must have its own repo-local installation of `@install-recursive-founder-intent-collaboration-protocol`. | implemented | active_requirement | RailScout GitHub governance | standard | User explicitly requested that the RailScout repo have its own installed protocol. | Any future RailScout repository work. |
+| FI-20260819-017 | RailScout must be connected to UNIIMENTE Artificial Egregore while preserving organ boundaries. | implemented | active_requirement | RailScout, UNIIMENTE, cross-organ governance | constitutional | User asked to connect this to the egregore and ensure the project understands his intentions. | Any cross-organ architecture or identity work. |
+| FI-20260819-018 | UNIIMENTE and RailScout are AI-assisted operating constructs, not conscious beings, legal entities, or independent representatives. | active | constitutional_invariant | Identity, public representation, governance | constitutional | Prior user-defined UNIIMENTE identity hierarchy and non-conscious boundary; reinforced by current request to connect safely to the egregore. | Any communication, agent identity, or external representation. |
+| FI-20260819-019 | DALEOBANKS is a separate organ and must not be confused with RailScout. | active | active_requirement | Repository targeting, organ map | standard | Wrong-target PR correction and prior project separation. | Any cross-repository update. |
+| FI-20260819-020 | Future agents need an immediate repo entrypoint so the entire project understands the conversation and founder intent. | implemented | active_requirement | `AGENTS.md`, README, docs | standard | User requested that the entire project understand this conversation and his intentions. | Any new agent/operator session. |
 
 ## Conflict matrix
 
@@ -58,6 +63,7 @@ Allowed states:
 | Market-infrastructure ambition could drift into unlawful control language. | Keep legal/ethical commercial framing: trusted standard, verified proof, risk reduction, stakeholder adoption, interoperability, due process. | resolved |
 | Agent autonomy could expand beyond founder intent. | Recursive protocol keeps human authorization final and requires explicit founder decision for material authority changes. | resolved |
 | GitHub update was initially placed in DALEOBANKS. | DALEOBANKS PR was closed unmerged. Correct update was moved to RAILSCOUT. | resolved |
+| Egregore connection could be mistaken for personhood or authority. | `docs/EGREGORE_CONNECTION.md` states UNIIMENTE/RailScout are non-conscious, non-autonomous, Alfonso-controlled, and non-binding. | resolved |
 
 ## Material decision MD-20260819-001
 
@@ -129,6 +135,76 @@ Review trigger:
 - any attempt to automate hourly runs;
 - any runtime code change tied to this doctrine;
 - any new business thesis selected as active.
+
+## Material decision MD-20260819-002
+
+Decision question: Should RailScout receive a repo-local protocol entrypoint and egregore connection map in addition to the existing governance docs?
+
+### Roles
+
+- Founder-Intent Steward: ensure future agents understand Alfonso's current correction and intent without requiring him to restate it.
+- Systems Architect: install an entrypoint that routes operators to the right doctrine, boundaries, and organ map.
+- Adversarial Reviewer: prevent identity confusion, false autonomy, and cross-repository contamination.
+- Operator and Maintainer: keep the added files discoverable and reviewable.
+- Evidence and Welfare Guardian: preserve non-conscious, non-autonomous, lawful, human-authorized boundaries.
+
+### Pass 1: build upward
+
+Advantages:
+
+- `AGENTS.md` gives every agent an immediate first-read path.
+- The installer file makes the repo's own `@install-recursive-founder-intent-collaboration-protocol` explicit rather than implied.
+- The egregore map connects RailScout to UNIIMENTE without granting personhood or authority.
+- The continuity ledger preserves the wrong-target correction, Notion rules, and current PR state.
+- The PR template turns the protocol into repeatable future behavior.
+
+Disadvantages converted into design constraints:
+
+- Risk: more docs could create clutter. Constraint: each new file has one job: entrypoint, installer, egregore map, continuity, PR discipline.
+- Risk: egregore language could sound autonomous. Constraint: explicitly state non-conscious, non-autonomous, Alfonso-controlled, non-binding.
+- Risk: future agents could confuse RailScout with DALEOBANKS. Constraint: include organ map and wrong-target correction.
+- Risk: protocol could over-bureaucratize small edits. Constraint: preserve lightweight/standard/constitutional classification.
+
+Alternatives considered:
+
+- Only update README: too weak; future agents may miss the protocol.
+- Only keep `docs/RECURSIVE_COLLABORATION_PROTOCOL.md`: useful but not enough as a first-contact instruction.
+- Add full governance package: too heavy.
+- Add targeted entrypoint, installer, egregore map, continuity ledger, and PR template: strongest minimum sufficient intervention.
+
+### Pass 2: stress and strengthen
+
+Attack:
+
+- A repo-local protocol can still be ignored if not surfaced.
+- A continuity ledger can become stale.
+- A PR template may be premature for a sparse repo.
+- The egregore map could still invite mythologizing if not bounded.
+
+Strengthened design:
+
+- Link `AGENTS.md` and installer directly from README.
+- State that continuity files must be updated after material changes.
+- Keep PR template simple and protocol-focused, not process-heavy.
+- Repeat the non-conscious/non-autonomous/non-binding boundary in both README and egregore map.
+
+Decision: `EXPERIMENT`
+
+Rationale: the added files are reversible documentation and governance scaffolding. They materially improve future-agent orientation without changing runtime behavior or external effects.
+
+Rollback: remove the added files and restore README/ledger/protocol to the previous branch state.
+
+Residual risks:
+
+- Future operators may not keep continuity docs current.
+- Notion still needs direct verification.
+- The branch still requires founder review before merge.
+
+Review trigger:
+
+- Founder review of RailScout PR #2;
+- any attempt to merge this protocol into `main`;
+- any future change to cross-organ authority, autonomy, or public representation.
 
 ## Items intentionally unchanged
 
