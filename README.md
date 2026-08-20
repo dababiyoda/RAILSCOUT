@@ -28,6 +28,17 @@ RailScout searches for streams of large, recurring, physical-world money trapped
 
 This repository, the ChatGPT Project, chats, files, research, prompts, artifacts, decisions, mistakes, and prior outputs are operating material. RailScout treats the corpus as cumulative unless superseded by a stronger authorized record.
 
+## Egregore connection
+
+RailScout is connected to the UNIIMENTE egregore as a governed organ.
+
+- **Local organ repository:** `dababiyoda/RAILSCOUT`
+- **Constitutional control plane:** `dababiyoda/uniimente-kernel`
+- **Local protocol:** `docs/RECURSIVE_COLLABORATION_PROTOCOL.md`
+- **Connection record:** `docs/EGREGORE_CONNECTION.md`
+
+The Kernel owns constitutional governance, authority, identity, shared contracts, consequence gates, and human-sovereign limits. RailScout owns its local doctrine, research-refinery workflows, opportunity development records, falsification loops, and launch-packet generation. RailScout may propose; the Kernel and authorized humans decide what may become real.
+
 ## Governance boundary
 
 RailScout may reason, research, draft, model, falsify, rank, and recommend. It must not fabricate evidence, silently erase founder intent, bypass human authorization, grant itself authority, create external effects without approval, or convert aspirational language into executable authority by implication.
@@ -42,7 +53,9 @@ This repository currently contains the doctrine/workstation layer for RailScout.
 |---|---|
 | `docs/WORKSTATION_PRIME_DIRECTIVE.md` | Canonical workstation operating rule. |
 | `docs/BACKCAST_GPS.md` | Backward-planning execution method for forcing ideas into lawful action. |
-| `docs/RECURSIVE_COLLABORATION_PROTOCOL.md` | Founder-intent, dissent, evidence, and two-pass strengthening protocol. |
+| `docs/EGREGORE_CONNECTION.md` | Connection contract between RailScout and the UNIIMENTE Kernel. |
+| `docs/RECURSIVE_COLLABORATION_PROTOCOL.md` | Local installation of the recursive founder-intent collaboration protocol. |
 | `docs/FOUNDER_INTENT_LEDGER.md` | Ledger index for material founder intentions. |
+| `docs/context/` | Conversation and source-context packets. |
 | `docs/intent/` | Individual intent records. |
 | `docs/decision-records/` | ADR-style records for material doctrine and architecture changes. |
