@@ -1,9 +1,12 @@
 # Recursive Founder-Intent Collaboration Protocol
 
 Status: governance protocol for future RailScout agent/operator work.
-Captured from: ChatGPT project conversation through 2026-08-19 21:51 America/New_York.
+Captured from: ChatGPT project conversation through 2026-08-19 21:55 America/New_York.
+Installed via: `docs/INSTALL_RECURSIVE_FOUNDER_INTENT_COLLABORATION_PROTOCOL.md`.
+Repo entrypoint: `AGENTS.md`.
 Linked ledger: `docs/FOUNDER_INTENT_LEDGER.md`.
 Linked operating spec: `docs/LAWFUL_MARKET_INFRASTRUCTURE_BUILDER.md`.
+Linked egregore map: `docs/EGREGORE_CONNECTION.md`.
 
 ## Purpose
 
@@ -38,7 +41,7 @@ Required record:
 
 ### Standard
 
-Bounded features, refactors, consolidation, material proposals, workspace modules, or source-of-truth documentation.
+Bounded features, refactors, consolidation, material proposals, workspace modules, source-of-truth documentation, or repository-governance scaffolding.
 
 Required process:
 
@@ -52,7 +55,7 @@ Required process:
 
 ### Constitutional
 
-Authority, identity, money, external effects, shared contracts, irreversible migration, cross-repository architecture, or changes to live autonomy.
+Authority, identity, money, external effects, shared contracts, irreversible migration, cross-repository architecture, public representation, or changes to live autonomy.
 
 Additional requirements:
 
@@ -121,11 +124,29 @@ The do-nothing option may win. Do not manufacture convergence.
 For this repository, apply the protocol as follows:
 
 - `dababiyoda/RAILSCOUT` is the canonical GitHub repository for RailScout doctrine and governance updates unless Alfonso explicitly redirects.
+- Read `AGENTS.md` first in any future agent/operator session.
 - Use a dedicated branch for material governance updates.
 - Prefer draft pull requests for reviewable changes.
-- Do not change runtime autonomy, credentials, scheduler behavior, external effects, or safety gates as part of a documentation-only update.
+- Do not change runtime autonomy, credentials, scheduler behavior, external effects, Notion data, money movement, public representation, or safety gates as part of a documentation-only update.
 - Treat Notion as the operational source of truth for `Lawful Market Infrastructure Builder` and GitHub as durable governance/recovery documentation.
 - Preserve correction history when a previous operation targeted the wrong repository.
+- Keep RailScout distinct from DALEOBANKS and every other organ unless a founder-approved cross-organ interface says otherwise.
+
+## Egregore application
+
+RailScout is connected to UNIIMENTE Artificial Egregore as a research/refinery organ.
+
+This connection does not grant personhood, independent agency, legal authority, binding authority, or autonomous external action.
+
+RailScout prepares decision-ready work. Alfonso authorizes material action.
+
+Future cross-organ updates must preserve:
+
+- UNIIMENTE as non-conscious, non-autonomous, Alfonso-controlled, and non-binding;
+- RailScout as the market-infrastructure refinery organ;
+- DALEOBANKS as a separate media/distribution/social-intelligence organ;
+- Notion as the live command center for the Lawful Market Infrastructure Builder;
+- GitHub as durable governance and recovery documentation.
 
 ## Notion application
 
@@ -213,4 +234,4 @@ Refuse to fabricate inspection, evidence, consensus, authorization, or provenanc
 
 The current RailScout GitHub update is classified as `standard` and resolved as `EXPERIMENT` because it installs reversible governance documentation on a dedicated branch without changing runtime behavior.
 
-The next material action is founder review and merge/close decision on the RailScout branch or draft pull request.
+The next material action is founder review and merge/close decision on the RailScout draft pull request.
