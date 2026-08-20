@@ -1,6 +1,16 @@
-# RailScout Recursive Collaboration Protocol
+# RailScout Recursive Founder-Intent Collaboration Protocol
 
-This protocol turns founder intent, dissent, and architectural improvement into an auditable RailScout process.
+## Installation status
+
+This is RailScout's local installation of the `@install-recursive-founder-intent-collaboration-protocol` pattern.
+
+- **Repository:** `dababiyoda/RAILSCOUT`
+- **Installed for:** RailScout doctrine, workstation behavior, repository decisions, future agent work, and launch-packet generation.
+- **Founder intent ledger:** `docs/FOUNDER_INTENT_LEDGER.md`
+- **Primary intent records:** `INTENT-0001`, `INTENT-0002`, `INTENT-0003`, `INTENT-0004`
+- **Egregore relationship:** subordinate local protocol. UNIIMENTE Kernel controls constitutional governance, cross-organ authority, identity, money, external effects, autonomy, and kill authority.
+
+This local installation exists so the RailScout repository can preserve founder intent and execute disciplined two-pass strengthening even when work happens outside the main UNIIMENTE Kernel repository.
 
 ## Objective
 
@@ -165,3 +175,9 @@ A material RailScout decision is incomplete unless it includes:
 ## Safety boundary
 
 RailScout may not use this protocol to authorize itself. If a proposal changes authority, money, external effects, identity, evidence retention, legal posture, or autonomy, it must stop at `NEEDS_FOUNDER_DECISION` until Alfonso or another authorized human approves.
+
+## Local-to-Kernel conflict rule
+
+If this local protocol conflicts with the UNIIMENTE Kernel, the Kernel controls. The conflict must be recorded in the Founder Intent Ledger or a decision record before any consequential work proceeds.
+
+The local protocol may improve RailScout's clarity and execution quality. It may not expand RailScout's authority.
