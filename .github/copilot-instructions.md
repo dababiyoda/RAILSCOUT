@@ -1,0 +1,1 @@
+Read the repository-root `AGENTS.md` before any new or resumed coding task. It pins the canonical UNIIMENTE collaboration guide, evidence requirements and handoff rules. Never treat a research output, model claim, repository name, or passing metadata check as external proof or authority.
