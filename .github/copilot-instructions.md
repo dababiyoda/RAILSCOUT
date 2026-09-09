@@ -1,0 +1,1 @@
+Read `AGENTS.md` before material work. Canonical rule: **Preserve the intended effect. Do not literalize the metaphor.** Search current real mechanisms, open source, standards and tools; extract causal primitives; preserve counterevidence; never treat metaphor resemblance as proof of capability.
