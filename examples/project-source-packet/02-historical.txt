@@ -1,0 +1,1 @@
+If an AI relies on external APIs, opaque libraries, or black-box systems for its cognitive operations, it is not autonomous; it is a dependent subsystem.
