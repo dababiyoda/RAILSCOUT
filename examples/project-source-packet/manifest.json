@@ -1,0 +1,87 @@
+{
+  "question": "Does the accessible source corpus justify building a custom proof-to-settlement substrate now?",
+  "transaction": "An unspecified buyer accepts proof before releasing an unspecified physical-world payment",
+  "sources": [
+    {
+      "id": "doctrine",
+      "path": "01-doctrine.txt",
+      "origin": "ChatGPT project Library /ARTIFICIAL EGGREGOR UNIIMENTE./01-DOCTRINE.txt",
+      "sha256": "faa97a4e9a402eb7e56738b34dcfeb5f2b9ecedb0d1806cb841829f6e8541e63",
+      "collected_at": "2026-09-26T11:09:00Z",
+      "rights": "user-provided project source excerpt"
+    },
+    {
+      "id": "historical",
+      "path": "02-historical.txt",
+      "origin": "ChatGPT project Library /ARTIFICIAL EGGREGOR UNIIMENTE./Architecting the Artificial Egregore.txt (excerpt)",
+      "sha256": "c3d3be20408012c120cdabeab9e507dff3bb11e262ea287f815e5ebd75f9d95b",
+      "collected_at": "2026-09-26T11:09:00Z",
+      "rights": "user-provided project source excerpt"
+    },
+    {
+      "id": "current",
+      "path": "03-current.txt",
+      "origin": "RAILSCOUT AGENTS.md at main 017d9f3 (excerpt)",
+      "sha256": "73bf9e5e1b772b5a3d87274bf075872519ac2481edaf5a32e2c5cbe2c3ddd408",
+      "collected_at": "2026-09-26T11:09:00Z",
+      "rights": "user-provided project source excerpt"
+    }
+  ],
+  "claims": [
+    {
+      "id": "D1",
+      "source_id": "doctrine",
+      "topic": "market_aim",
+      "assertion": "Founder seeks trapped recurring physical-world money streams",
+      "excerpt": "find streams of large, recurring, physical-world money trapped behind broken proof, trust, and settlement infrastructure.",
+      "stance": "supports",
+      "kind": "observation"
+    },
+    {
+      "id": "H1",
+      "source_id": "historical",
+      "topic": "custom_substrate_required",
+      "assertion": "Historical essay says dependence on external APIs precludes autonomy",
+      "excerpt": "If an AI relies on external APIs, opaque libraries, or black-box systems for its cognitive operations, it is not autonomous; it is a dependent subsystem.",
+      "stance": "supports",
+      "kind": "allegation"
+    },
+    {
+      "id": "K1",
+      "source_id": "current",
+      "topic": "custom_substrate_required",
+      "assertion": "Current agent rule favors existing mechanisms when they close the effect",
+      "excerpt": "Do not recommend building new substrate when an existing real mechanism closes the effect more cheaply or reliably.",
+      "stance": "challenges",
+      "kind": "observation"
+    }
+  ],
+  "market": {
+    "buyer": "",
+    "budget_owner": "",
+    "verifier": "",
+    "accepted_decision": "",
+    "evidence": {}
+  },
+  "failure": {
+    "layer": "proof",
+    "description": "Potential proof/trust/settlement bottleneck requires a real named transaction",
+    "claim_ids": [
+      "D1"
+    ]
+  },
+  "candidate": {
+    "current_form": "research appraisal",
+    "pilot": "Name one buyer, budget and consequential verifier before a build",
+    "falsifier": "No payer, verifiable external decision or useful improvement over manual research",
+    "next_action": "Identify one actual transaction and buyer"
+  },
+  "lenses": {
+    "commercial": "No buyer or price verified",
+    "strategic": "No accepted proof or routing authority verified",
+    "regenerative": "Potential participant benefit remains untested",
+    "institutional": "No mandate or contract acceptance verified",
+    "capital": "No capital commitment or payback evidence"
+  },
+  "strongest_counterexample_id": "K1"
+}

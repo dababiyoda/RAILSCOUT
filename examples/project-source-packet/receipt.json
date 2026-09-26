@@ -1,0 +1,218 @@
+{
+  "appraisal": {
+    "candidate": {
+      "current_form": "research appraisal",
+      "falsifier": "No payer, verifiable external decision or useful improvement over manual research",
+      "next_action": "Identify one actual transaction and buyer",
+      "pilot": "Name one buyer, budget and consequential verifier before a build"
+    },
+    "claims": [
+      {
+        "assertion": "Founder seeks trapped recurring physical-world money streams",
+        "byte_end": 144,
+        "byte_start": 23,
+        "epistemic_status": "source-passage-verified; assertion-unverified",
+        "excerpt": "find streams of large, recurring, physical-world money trapped behind broken proof, trust, and settlement infrastructure.",
+        "id": "D1",
+        "kind": "observation",
+        "source_id": "doctrine",
+        "stance": "supports",
+        "topic": "market_aim"
+      },
+      {
+        "assertion": "Historical essay says dependence on external APIs precludes autonomy",
+        "byte_end": 153,
+        "byte_start": 0,
+        "epistemic_status": "source-passage-verified; assertion-unverified",
+        "excerpt": "If an AI relies on external APIs, opaque libraries, or black-box systems for its cognitive operations, it is not autonomous; it is a dependent subsystem.",
+        "id": "H1",
+        "kind": "allegation",
+        "source_id": "historical",
+        "stance": "supports",
+        "topic": "custom_substrate_required"
+      },
+      {
+        "assertion": "Current agent rule favors existing mechanisms when they close the effect",
+        "byte_end": 115,
+        "byte_start": 0,
+        "epistemic_status": "source-passage-verified; assertion-unverified",
+        "excerpt": "Do not recommend building new substrate when an existing real mechanism closes the effect more cheaply or reliably.",
+        "id": "K1",
+        "kind": "observation",
+        "source_id": "current",
+        "stance": "challenges",
+        "topic": "custom_substrate_required"
+      }
+    ],
+    "consequence_class": "read_only",
+    "contradictions": [
+      "custom_substrate_required"
+    ],
+    "counterexample_selection": "human nomination; strength not independently established",
+    "external_acceptance": "not tested",
+    "failure": {
+      "claim_ids": [
+        "D1"
+      ],
+      "description": "Potential proof/trust/settlement bottleneck requires a real named transaction",
+      "layer": "proof"
+    },
+    "lenses": {
+      "capital": "No capital commitment or payback evidence",
+      "commercial": "No buyer or price verified",
+      "institutional": "No mandate or contract acceptance verified",
+      "regenerative": "Potential participant benefit remains untested",
+      "strategic": "No accepted proof or routing authority verified"
+    },
+    "market": {
+      "accepted_decision": "",
+      "budget_owner": "",
+      "buyer": "",
+      "evidence": {},
+      "verifier": ""
+    },
+    "missing": [
+      "buyer",
+      "budget_owner",
+      "verifier",
+      "accepted_decision"
+    ],
+    "next_action": "Find independent evidence for buyer",
+    "question": "Does the accessible source corpus justify building a custom proof-to-settlement substrate now?",
+    "sources": [
+      {
+        "bytes": 511,
+        "collected_at": "2026-09-26T11:09:00Z",
+        "id": "doctrine",
+        "origin": "ChatGPT project Library /ARTIFICIAL EGGREGOR UNIIMENTE./01-DOCTRINE.txt",
+        "path": "01-doctrine.txt",
+        "rights": "user-provided project source excerpt",
+        "rights_status": "source-declared",
+        "sha256": "faa97a4e9a402eb7e56738b34dcfeb5f2b9ecedb0d1806cb841829f6e8541e63"
+      },
+      {
+        "bytes": 154,
+        "collected_at": "2026-09-26T11:09:00Z",
+        "id": "historical",
+        "origin": "ChatGPT project Library /ARTIFICIAL EGGREGOR UNIIMENTE./Architecting the Artificial Egregore.txt (excerpt)",
+        "path": "02-historical.txt",
+        "rights": "user-provided project source excerpt",
+        "rights_status": "source-declared",
+        "sha256": "c3d3be20408012c120cdabeab9e507dff3bb11e262ea287f815e5ebd75f9d95b"
+      },
+      {
+        "bytes": 116,
+        "collected_at": "2026-09-26T11:09:00Z",
+        "id": "current",
+        "origin": "RAILSCOUT AGENTS.md at main 017d9f3 (excerpt)",
+        "path": "03-current.txt",
+        "rights": "user-provided project source excerpt",
+        "rights_status": "source-declared",
+        "sha256": "73bf9e5e1b772b5a3d87274bf075872519ac2481edaf5a32e2c5cbe2c3ddd408"
+      }
+    ],
+    "status": "NEEDS_EVIDENCE",
+    "strongest_counterexample": {
+      "assertion": "Current agent rule favors existing mechanisms when they close the effect",
+      "byte_end": 115,
+      "byte_start": 0,
+      "epistemic_status": "source-passage-verified; assertion-unverified",
+      "excerpt": "Do not recommend building new substrate when an existing real mechanism closes the effect more cheaply or reliably.",
+      "id": "K1",
+      "kind": "observation",
+      "source_id": "current",
+      "stance": "challenges",
+      "topic": "custom_substrate_required"
+    },
+    "transaction": "An unspecified buyer accepts proof before releasing an unspecified physical-world payment",
+    "version": "railscout.appraisal/1"
+  },
+  "manifest": {
+    "candidate": {
+      "current_form": "research appraisal",
+      "falsifier": "No payer, verifiable external decision or useful improvement over manual research",
+      "next_action": "Identify one actual transaction and buyer",
+      "pilot": "Name one buyer, budget and consequential verifier before a build"
+    },
+    "claims": [
+      {
+        "assertion": "Founder seeks trapped recurring physical-world money streams",
+        "excerpt": "find streams of large, recurring, physical-world money trapped behind broken proof, trust, and settlement infrastructure.",
+        "id": "D1",
+        "kind": "observation",
+        "source_id": "doctrine",
+        "stance": "supports",
+        "topic": "market_aim"
+      },
+      {
+        "assertion": "Historical essay says dependence on external APIs precludes autonomy",
+        "excerpt": "If an AI relies on external APIs, opaque libraries, or black-box systems for its cognitive operations, it is not autonomous; it is a dependent subsystem.",
+        "id": "H1",
+        "kind": "allegation",
+        "source_id": "historical",
+        "stance": "supports",
+        "topic": "custom_substrate_required"
+      },
+      {
+        "assertion": "Current agent rule favors existing mechanisms when they close the effect",
+        "excerpt": "Do not recommend building new substrate when an existing real mechanism closes the effect more cheaply or reliably.",
+        "id": "K1",
+        "kind": "observation",
+        "source_id": "current",
+        "stance": "challenges",
+        "topic": "custom_substrate_required"
+      }
+    ],
+    "failure": {
+      "claim_ids": [
+        "D1"
+      ],
+      "description": "Potential proof/trust/settlement bottleneck requires a real named transaction",
+      "layer": "proof"
+    },
+    "lenses": {
+      "capital": "No capital commitment or payback evidence",
+      "commercial": "No buyer or price verified",
+      "institutional": "No mandate or contract acceptance verified",
+      "regenerative": "Potential participant benefit remains untested",
+      "strategic": "No accepted proof or routing authority verified"
+    },
+    "market": {
+      "accepted_decision": "",
+      "budget_owner": "",
+      "buyer": "",
+      "evidence": {},
+      "verifier": ""
+    },
+    "question": "Does the accessible source corpus justify building a custom proof-to-settlement substrate now?",
+    "sources": [
+      {
+        "collected_at": "2026-09-26T11:09:00Z",
+        "id": "doctrine",
+        "origin": "ChatGPT project Library /ARTIFICIAL EGGREGOR UNIIMENTE./01-DOCTRINE.txt",
+        "path": "01-doctrine.txt",
+        "rights": "user-provided project source excerpt",
+        "sha256": "faa97a4e9a402eb7e56738b34dcfeb5f2b9ecedb0d1806cb841829f6e8541e63"
+      },
+      {
+        "collected_at": "2026-09-26T11:09:00Z",
+        "id": "historical",
+        "origin": "ChatGPT project Library /ARTIFICIAL EGGREGOR UNIIMENTE./Architecting the Artificial Egregore.txt (excerpt)",
+        "path": "02-historical.txt",
+        "rights": "user-provided project source excerpt",
+        "sha256": "c3d3be20408012c120cdabeab9e507dff3bb11e262ea287f815e5ebd75f9d95b"
+      },
+      {
+        "collected_at": "2026-09-26T11:09:00Z",
+        "id": "current",
+        "origin": "RAILSCOUT AGENTS.md at main 017d9f3 (excerpt)",
+        "path": "03-current.txt",
+        "rights": "user-provided project source excerpt",
+        "sha256": "73bf9e5e1b772b5a3d87274bf075872519ac2481edaf5a32e2c5cbe2c3ddd408"
+      }
+    ],
+    "strongest_counterexample_id": "K1",
+    "transaction": "An unspecified buyer accepts proof before releasing an unspecified physical-world payment"
+  },
+  "receipt_sha256": "f61c352f91b2538f1da6a69786abeff7f38c8cd541db69c18ac0ec8ae9db1f40"
+}

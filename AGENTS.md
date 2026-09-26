@@ -4,6 +4,8 @@ RailScout is UNIIMENTE's research/evidence/cognitive-refinery organ. It supplies
 
 Before material work, read:
 
+- `docs/FOUNDER_SOURCE_AND_CODED_SLICE_2026-09-26.md` (current quoted intent and coded-slice acceptance)
+
 - `dababiyoda/uniimente-kernel/AGENTS.md`
 - `dababiyoda/uniimente-kernel/docs/FOUNDER_EFFECT_COMPILER.md`
 - `dababiyoda/uniimente-kernel/docs/intent/INTENT-0030-effect-not-metaphor.md`
@@ -35,3 +37,4 @@ Separate source fact, inference, proposal, experiment, implementation, simulatio
 ## Authority
 
 Research discovers options; it does not create permission. Any acquired/generated capability remains subject to Kernel identity, authority, evidence, budget, consequence, and shutdown controls.
+For the 2026-09-26 founder corrections and the next **runnable RailScout product slice**, read `docs/FOUNDER_SOURCE_AND_CODED_SLICE_2026-09-26.md` and [Kernel coordination #117](https://github.com/dababiyoda/uniimente-kernel/issues/117). Its quoted conversation excerpts have explicit coverage limits. Inspect current code and PRs again before acting; a source brief or template is not a product delta. A material coding PR must show a runnable command, receipt, adverse evidence and the specific capability gained. The Kernel remains the authority owner.
