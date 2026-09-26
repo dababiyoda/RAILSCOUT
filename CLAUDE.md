@@ -1,6 +1,6 @@
 # RailScout Claude Entry
 
-Read `AGENTS.md` before substantive work.
+Read `AGENTS.md` and `docs/FOUNDER_SOURCE_AND_CODED_SLICE_2026-09-26.md` before substantive work. The source brief quotes the founder with coverage limits and gives an executable, source-bound RailScout slice. Inspect current code before coding; prove the new capability with a command and receipt, and do not count prose as product completion.
 
 Canonical founder interpretation lives in `dababiyoda/uniimente-kernel/docs/FOUNDER_EFFECT_COMPILER.md`.
 
